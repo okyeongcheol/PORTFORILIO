@@ -301,7 +301,7 @@ a.active {
 		width:1229px;
 		font-size:18px;
 		color:#fffaee;
-        padding-left: 962px;
+        padding-left: 830px;
 		margin-top: 20px;
 		font-family: '나눔스퀘어_ac', sans-serif;
         font-weight: bold;
@@ -311,6 +311,7 @@ a.active {
 		display: table-cell;
 		vertical-align: top;
 		padding-top:100px;
+ 
 		
 	}
 	.table-cell h1{
@@ -322,6 +323,9 @@ a.active {
         font-weight: bold;
         border-bottom: 5px solid #fffaee;
         font-family: "Georgia";
+        display:inline-block;
+        margin-left: 60px;
+
 	}
 	.disply-table {
 		display: table;
